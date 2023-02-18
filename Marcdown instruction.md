@@ -31,6 +31,10 @@
 
 ## Ссылки
 
+[Skillbox Media](https://skillbox.ru/media/) без подсказки
+
+[Skillbox Media](https://skillbox.ru/media/ "Всплывающая подсказка") с подсказкой
+
 ## Работа с таблицами
 
 ## Цитаты
